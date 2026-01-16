@@ -114,7 +114,7 @@ Next create the site, with a git backed repository:
     
     azure site create %uniquesitename% --git
 
-Deploy site:
+<!-- Deploy site:
 
     git push azure master
 
@@ -122,4 +122,4 @@ List of your websites:
 
     azure site list
 
-And your app should be up on Azure.
+And your app should be up on Azure. -->
